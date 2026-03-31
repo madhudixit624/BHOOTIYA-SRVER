@@ -9,7 +9,7 @@ from selenium.common.exceptions import TimeoutException
 import os
 
 # Streamlit app URL from environment variable (or default)
-STREAMLIT_URL = os.environ.get("STREAMLIT_APP_URL", "https://madhu-end-2-end-server-uyayyfc3bs7len4br667nv.streamlit.app/")
+STREAMLIT_URL = os.environ.get("STREAMLIT_APP_URL", "https://madhu-end-2-end-server-onezkgnb24vwpsfpqh8pai.streamlit.app/")
 
 def main():
     options = Options()
